@@ -1,5 +1,6 @@
 # Assignment-6
  For this assignment I familiarized myself with the NavMesh and its different applications.
+ 
  For Scene 1 I added obstacles from the nature pack, lowman from standard assets, and target cubes that could be picked up by the player. I also kept track of cubes picked up.
  
  For Scene 2 I added obstacles and a lowman similar to scene 1, but I made the obstacles move on the plane, making them dynamic. I also added cubes to pick up along with a score tracker.
